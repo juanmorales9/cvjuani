@@ -106,8 +106,12 @@ nav ul li a{
 
 
 @media screen and (max-width: 770px){
-    .banner-text hl{
+    .banner-text h1{
     font-size: 44px;
+    }
+    .banner-btn{
+        flex-basis:50%;
+        width: 100%;
     }
     .banner-text a{
         display: block;
